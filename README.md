@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/%E5%80%8B%E4%BA%BA%E9%A0%81%E9%9D%A2%E7%80%8F%E8%A6%BD%E6%AC%A1%E6%95%B8-3-blue)
+![Profile Views](http://img.shields.io/badge/%E5%80%8B%E4%BA%BA%E9%A0%81%E9%9D%A2%E7%80%8F%E8%A6%BD%E6%AC%A1%E6%95%B8-2-blue)
 
 **🐱 我的 GitHub 數據** 
 
@@ -42,12 +42,10 @@
 🕑︎ 時區: Asia/Taipei
 
 💬 程式語言: 
-TypeScript               2 hrs 51 mins       █████████████████████████   98.93 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+本週沒有任何活動
 
 🔥 編輯器: 
-VS Code                  2 hrs 53 mins       █████████████████████████   100.00 % 
+本週沒有任何活動
 ```
 
 **我最經常使用 JavaScript** 
@@ -67,7 +65,7 @@ Go                       3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jos61404/jos61404/main/assets/bar_graph.png)
 
 
- Last Updated on 11/11/2024 18:40:46 UTC
+ Last Updated on 12/11/2024 18:41:37 UTC
 <!--END_SECTION:waka-->
 
 
