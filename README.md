@@ -9,8 +9,6 @@
 
 > 📦 在 GitHub 佔用了 95.8 kB 
  > 
-> 🏆  8個貢獻，在 2024年
- > 
 > 🚫 不開放徵才
  > 
 > 📜 10 公共倉庫 
@@ -67,7 +65,7 @@ Go                       3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jos61404/jos61404/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2024 18:42:42 UTC
+ Last Updated on 16/11/2024 18:40:57 UTC
 <!--END_SECTION:waka-->
 
 
