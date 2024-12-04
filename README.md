@@ -3,11 +3,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/%E5%80%8B%E4%BA%BA%E9%A0%81%E9%9D%A2%E7%80%8F%E8%A6%BD%E6%AC%A1%E6%95%B8-4-blue)
+![Profile Views](http://img.shields.io/badge/%E5%80%8B%E4%BA%BA%E9%A0%81%E9%9D%A2%E7%80%8F%E8%A6%BD%E6%AC%A1%E6%95%B8-3-blue)
 
 **🐱 我的 GitHub 數據** 
 
 > 📦 在 GitHub 佔用了 95.8 kB 
+ > 
+> 🏆  8個貢獻，在 2024年
  > 
 > 🚫 不開放徵才
  > 
@@ -69,7 +71,7 @@ Go                       3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jos61404/jos61404/main/assets/bar_graph.png)
 
 
- Last Updated on 03/12/2024 18:43:39 UTC
+ Last Updated on 04/12/2024 18:44:17 UTC
 <!--END_SECTION:waka-->
 
 
