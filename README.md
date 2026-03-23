@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-687%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-687%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E5%80%8B%E4%BA%BA%E9%A0%81%E9%9D%A2%E7%80%8F%E8%A6%BD%E6%AC%A1%E6%95%B8-0-blue?style=flat)
 
@@ -44,13 +44,11 @@
 🕑︎ 時區: Asia/Taipei
 
 💬 程式語言: 
-TypeScript               5 hrs 27 mins       ████████████████████████░   94.92 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+TypeScript               4 hrs 44 mins       █████████████████████████   99.92 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 編輯器: 
-Cursor                   5 hrs 45 mins       █████████████████████████   100.00 % 
+Cursor                   4 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **我最經常使用 TypeScript** 
@@ -70,7 +68,7 @@ Go                       3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jos61404/jos61404/main/assets/bar_graph.png)
 
 
- Last Updated on 22/03/2026 18:49:10 UTC
+ Last Updated on 23/03/2026 18:51:45 UTC
 <!--END_SECTION:waka-->
 
 
