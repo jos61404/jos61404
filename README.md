@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-793%20hrs%2025%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/%E5%80%8B%E4%BA%BA%E9%A0%81%E9%9D%A2%E7%80%8F%E8%A6%BD%E6%AC%A1%E6%95%B8-0-blue?style=flat)
 
 **🐱 我的 GitHub 數據** 
@@ -34,7 +32,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jos61404/jos61404/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2026 19:12:52 UTC
+ Last Updated on 15/05/2026 19:08:22 UTC
 <!--END_SECTION:waka-->
 
 
