@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C253%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C255%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-549%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-550%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E5%80%8B%E4%BA%BA%E9%A0%81%E9%9D%A2%E7%80%8F%E8%A6%BD%E6%AC%A1%E6%95%B8-1-blue?style=flat)
 
@@ -46,39 +46,39 @@
 🕑︎ 時區: Asia/Taipei
 
 💬 程式語言: 
-Markdown                 14 hrs 26 mins      █████████████░░░░░░░░░░░░   50.66 % 
-Python                   4 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-TypeScript               3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-JSON                     2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-Text                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Markdown                 14 hrs 19 mins      █████████████░░░░░░░░░░░░   50.71 % 
+Python                   4 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+TypeScript               3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+JSON                     2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Text                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 🔥 編輯器: 
-Cursor                   21 hrs 39 mins      ███████████████████░░░░░░   75.96 % 
-Agent                    6 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
+Cursor                   21 hrs 15 mins      ███████████████████░░░░░░   75.25 % 
+Agent                    6 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 7 mins (98.64%)
+⏱ AI Coding Time: 27 hrs 53 mins (98.71%)
 
-✍️ 34,883 lines written by AI, 8 lines written by hand (99.98% AI-written)
+✍️ 25,760 lines written by AI, 8 lines written by hand (99.97% AI-written)
 
-🔤 2,273,360 Input Tokens, 2,292,409 Output Tokens
+🔤 2,195,533 Input Tokens, 2,214,582 Output Tokens
 
-💵 $41.20 Estimated AI Cost This Week
+💵 $39.80 Estimated AI Cost This Week
 
-🧠 249 AI Sessions, 885 AI Prompts
+🧠 248 AI Sessions, 844 AI Prompts
 
 Grok                     962 lines           █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 11,370 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
+🤖 AI-Driven — 99.97% of written lines came from AI
+📚 Verbose Prompter — average 11,430 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
 **我最經常使用 TypeScript** 
@@ -98,7 +98,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jos61404/jos61404/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 21:11:33 UTC
+ Last Updated on 12/09/2026 20:49:22 UTC
 <!--END_SECTION:waka-->
 
 
