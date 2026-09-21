@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C299%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C303%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-596%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-600%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E5%80%8B%E4%BA%BA%E9%A0%81%E9%9D%A2%E7%80%8F%E8%A6%BD%E6%AC%A1%E6%95%B8-1-blue?style=flat)
 
@@ -22,21 +22,21 @@
 **我是早起的 🐤** 
 
 ```text
-🌞 早晨                     1877 commits        ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
-🌆 白天                     3120 commits        ██████████░░░░░░░░░░░░░░░   40.70 % 
-🌃 傍晚                     1691 commits        ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
-🌙 晚上                     978 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+🌞 早晨                     2512 commits        ███████░░░░░░░░░░░░░░░░░░   26.33 % 
+🌆 白天                     3843 commits        ██████████░░░░░░░░░░░░░░░   40.28 % 
+🌃 傍晚                     2013 commits        █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
+🌙 晚上                     1172 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
 ```
 📅 **我最有效率是在 星期三** 
 
 ```text
-星期一                      1156 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-星期二                      1425 commits        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-星期三                      1788 commits        ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
-星期四                      1323 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-星期五                      1187 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-星期六                      249 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-星期日                      538 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+星期一                      1597 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+星期二                      1835 commits        █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+星期三                      2113 commits        ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+星期四                      1623 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+星期五                      1480 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+星期六                      259 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+星期日                      633 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
 ```
 
 
@@ -46,51 +46,50 @@
 🕑︎ 時區: Asia/Taipei
 
 💬 程式語言: 
-Markdown                 23 hrs 32 mins      █████████████░░░░░░░░░░░░   53.26 % 
-Python                   4 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-TypeScript               3 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-JSON                     3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-Text                     2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Markdown                 17 hrs              ███████████░░░░░░░░░░░░░░   42.67 % 
+Python                   5 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+TypeScript               4 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+JSON                     3 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Text                     2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 
 🔥 編輯器: 
-Cursor                   30 hrs 6 mins       █████████████████░░░░░░░░   68.12 % 
-Agent                    12 hrs 28 mins      ███████░░░░░░░░░░░░░░░░░░   28.20 % 
-VS Code                  1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Cursor                   23 hrs 15 mins      ███████████████░░░░░░░░░░   58.33 % 
+Agent                    14 hrs 33 mins      █████████░░░░░░░░░░░░░░░░   36.51 % 
+VS Code                  2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 hrs 50 mins (99.17%)
+⏱ AI Coding Time: 39 hrs 28 mins (99.02%)
 
-✍️ 56,764 lines written by AI, 292 lines written by hand (99.49% AI-written)
+✍️ 46,953 lines written by AI, 49 lines written by hand (99.9% AI-written)
 
-🔤 13,208,409 Input Tokens, 13,321,801 Output Tokens
+🔤 8,554,740 Input Tokens, 8,655,892 Output Tokens
 
-💵 $239.00 Estimated AI Cost This Week
+💵 $154.24 Estimated AI Cost This Week
 
-🧠 623 AI Sessions, 2086 AI Prompts
+🧠 580 AI Sessions, 2036 AI Prompts
 
-Cursor                   4,619 lines         ███████████████████████░░   92.29 % 
-GPT                      207 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-Grok                     179 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Cursor                   6,417 lines         ████████████████████████░   97.29 % 
+Grok                     179 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.49% of written lines came from AI
-📚 Verbose Prompter — average 26,438 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.54% of changed lines were hand-edited
+🤖 AI-Driven — 99.9% of written lines came from AI
+📚 Verbose Prompter — average 17,669 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.07% of changed lines were hand-edited
 ```
 
 **我最經常使用 TypeScript** 
 
 ```text
-TypeScript               14 repos            ███████████░░░░░░░░░░░░░░   43.75 % 
-JavaScript               10 repos            ████████░░░░░░░░░░░░░░░░░   31.25 % 
-Rust                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+TypeScript               15 repos            ███████████░░░░░░░░░░░░░░   45.45 % 
+JavaScript               10 repos            ████████░░░░░░░░░░░░░░░░░   30.30 % 
+Rust                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
@@ -100,7 +99,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jos61404/jos61404/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 21:00:59 UTC
+ Last Updated on 21/09/2026 22:09:57 UTC
 <!--END_SECTION:waka-->
 
 
