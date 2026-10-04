@@ -22,21 +22,21 @@
 **我是早起的 🐤** 
 
 ```text
-🌞 早晨                     4557 commits        ███████░░░░░░░░░░░░░░░░░░   28.33 % 
-🌆 白天                     6421 commits        ██████████░░░░░░░░░░░░░░░   39.92 % 
-🌃 傍晚                     3240 commits        █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-🌙 晚上                     1866 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+🌞 早晨                     4484 commits        ███████░░░░░░░░░░░░░░░░░░   28.60 % 
+🌆 白天                     6300 commits        ██████████░░░░░░░░░░░░░░░   40.19 % 
+🌃 傍晚                     3119 commits        █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+🌙 晚上                     1773 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
 ```
 📅 **我最有效率是在 星期三** 
 
 ```text
-星期一                      2890 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-星期二                      3233 commits        █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-星期三                      3555 commits        ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-星期四                      2629 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-星期五                      2391 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-星期六                      368 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-星期日                      1018 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+星期一                      2859 commits        █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+星期二                      3197 commits        █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+星期三                      3518 commits        ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
+星期四                      2579 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+星期五                      2334 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+星期六                      301 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+星期日                      888 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 ```
 
 
@@ -46,39 +46,39 @@
 🕑︎ 時區: Asia/Taipei
 
 💬 程式語言: 
-TypeScript               14 hrs 10 mins      ████████████░░░░░░░░░░░░░   47.47 % 
-Python                   4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Markdown                 3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Text                     2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-JavaScript               2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+TypeScript               10 hrs 41 mins      ██████████░░░░░░░░░░░░░░░   40.53 % 
+Python                   4 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Markdown                 3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Text                     2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+JavaScript               1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
 
 🔥 編輯器: 
-Cursor                   18 hrs 15 mins      ███████████████░░░░░░░░░░   61.10 % 
-VS Code                  8 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   27.80 % 
-Agent                    3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+Cursor                   14 hrs 57 mins      ██████████████░░░░░░░░░░░   56.68 % 
+VS Code                  8 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   31.45 % 
+Agent                    3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 9 mins (97.6%)
+⏱ AI Coding Time: 25 hrs 37 mins (97.06%)
 
-✍️ 43,922 lines written by AI, 82 lines written by hand (99.81% AI-written)
+✍️ 26,054 lines written by AI, 82 lines written by hand (99.69% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.23 Estimated AI Cost This Week
 
-🧠 114 AI Sessions, 458 AI Prompts
+🧠 117 AI Sessions, 501 AI Prompts
 
 Cursor                   11,936 lines        █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.81% of written lines came from AI
-📄 Detailed Prompter — average 1,448 characters per prompt
+🤖 AI-Driven — 99.69% of written lines came from AI
+📄 Detailed Prompter — average 1,321 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.18% of changed lines were hand-edited
+🚀 High AI Trust — 0.3% of changed lines were hand-edited
 ```
 
 **我最經常使用 TypeScript** 
@@ -98,7 +98,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jos61404/jos61404/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2026 21:41:54 UTC
+ Last Updated on 04/10/2026 21:48:19 UTC
 <!--END_SECTION:waka-->
 
 
