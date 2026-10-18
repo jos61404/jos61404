@@ -9,7 +9,7 @@
 
 **🐱 我的 GitHub 數據** 
 
-> 📦 在 GitHub 佔用了 254.5 kB 
+> 📦 在 GitHub 佔用了 253.5 kB 
  > 
 > 🏆  0個貢獻，在 2026年
  > 
@@ -22,21 +22,21 @@
 **我是早起的 🐤** 
 
 ```text
-🌞 早晨                     832 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-🌆 白天                     4163 commits        ████████████░░░░░░░░░░░░░   47.94 % 
-🌃 傍晚                     1750 commits        █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
-🌙 晚上                     1938 commits        ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
+🌞 早晨                     837 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+🌆 白天                     4234 commits        ████████████░░░░░░░░░░░░░   47.92 % 
+🌃 傍晚                     1774 commits        █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+🌙 晚上                     1990 commits        ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
 ```
 📅 **我最有效率是在 星期三** 
 
 ```text
-星期一                      1590 commits        █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-星期二                      1043 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-星期三                      3583 commits        ██████████░░░░░░░░░░░░░░░   41.26 % 
-星期四                      620 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-星期五                      548 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-星期六                      253 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-星期日                      1046 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+星期一                      1640 commits        █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
+星期二                      1065 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+星期三                      3637 commits        ██████████░░░░░░░░░░░░░░░   41.17 % 
+星期四                      624 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+星期五                      548 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+星期六                      253 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+星期日                      1068 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
 ```
 
 
@@ -46,38 +46,38 @@
 🕑︎ 時區: Asia/Taipei
 
 💬 程式語言: 
-Markdown                 15 hrs 23 mins      █████████░░░░░░░░░░░░░░░░   35.66 % 
-TypeScript               12 hrs 4 mins       ███████░░░░░░░░░░░░░░░░░░   27.99 % 
-Python                   3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-JavaScript               3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-Text                     2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+Markdown                 14 hrs 36 mins      █████████░░░░░░░░░░░░░░░░   35.76 % 
+TypeScript               11 hrs 34 mins      ███████░░░░░░░░░░░░░░░░░░   28.34 % 
+Python                   3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+JavaScript               3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+JSON                     2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
 
 🔥 編輯器: 
-Agent                    40 hrs 1 min        ███████████████████████░░   92.76 % 
-VS Code                  1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-Cursor                   1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Agent                    38 hrs 40 mins      ████████████████████████░   94.72 % 
+VS Code                  1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Cursor                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 hrs (99.65%)
+⏱ AI Coding Time: 40 hrs 44 mins (99.74%)
 
-✍️ 70,891 lines written by AI, 644 lines written by hand (99.1% AI-written)
+✍️ 71,975 lines written by AI, 642 lines written by hand (99.12% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 358 AI Sessions, 1212 AI Prompts
+🧠 343 AI Sessions, 1192 AI Prompts
 
-Cursor                   74,358 lines        █████████████████████████   100.00 % 
+Cursor                   76,000 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.1% of written lines came from AI
-📄 Detailed Prompter — average 1,459 characters per prompt
+🤖 AI-Driven — 99.12% of written lines came from AI
+📄 Detailed Prompter — average 1,460 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.89% of changed lines were hand-edited
+🚀 High AI Trust — 0.87% of changed lines were hand-edited
 ```
 
 **我最經常使用 TypeScript** 
@@ -97,7 +97,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jos61404/jos61404/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 20:51:24 UTC
+ Last Updated on 18/10/2026 21:00:03 UTC
 <!--END_SECTION:waka-->
 
 
