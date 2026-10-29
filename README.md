@@ -46,38 +46,38 @@
 🕑︎ 時區: Asia/Taipei
 
 💬 程式語言: 
-Markdown                 3 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   33.75 % 
-Text                     2 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
-TypeScript               1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-JavaScript               1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Markdown                 2 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   29.51 % 
+Text                     2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
+TypeScript               1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
+JavaScript               1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 
 🔥 編輯器: 
-Cursor Agent             6 hrs 4 mins        ████████████████░░░░░░░░░   63.98 % 
-Cursor                   3 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   33.16 % 
-VS Code                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Cursor Agent             5 hrs 22 mins       █████████████████░░░░░░░░   66.34 % 
+Cursor                   2 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   30.30 % 
+VS Code                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 12 mins (96.83%)
+⏱ AI Coding Time: 7 hrs 47 mins (96.28%)
 
-✍️ 8,876 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 8,510 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 109 AI Sessions, 331 AI Prompts
+🧠 94 AI Sessions, 284 AI Prompts
 
-Cursor                   7,065 lines         ███████████████████░░░░░░   77.95 % 
-Default                  1,947 lines         █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
-Grok                     51 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Cursor                   6,995 lines         ████████████████████░░░░░   80.51 % 
+Default                  1,646 lines         █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+Grok                     47 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,079 characters per prompt
+📚 Verbose Prompter — average 2,150 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -99,7 +99,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jos61404/jos61404/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 22:48:06 UTC
+ Last Updated on 29/10/2026 22:56:34 UTC
 <!--END_SECTION:waka-->
 
 
